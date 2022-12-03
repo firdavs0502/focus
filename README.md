@@ -20,8 +20,8 @@ If you have questions or need help integrating the product please [contact us](m
 <!-- licence -->
 ## License
 
-Copyright (c) 2016 - Present, Designed & Developed by [Themefisher](https://themefisher.com)
+Copyright (c) 2022 - Present, Designed & Developed by firdavs0502
 
-**Code License:** Released under the [MIT](https://github.com/themefisher/focus/blob/main/LICENSE) license.
+**Code License:** Released under the [MIT](https://github.com/firdavs0502/focus/blob/main/LICENSE) license.
 
 **Image license:** The images are only for demonstration purposes. They have their license, we don't have permission to share those images
